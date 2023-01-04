@@ -16,7 +16,7 @@
 
 ## Variables
 A name give to a piece of information.  It is like a bucket that can hold only 1 piece of information at a time.
-!["bucket"](bucket1.png]
+!["bucket"](bucket1.png)
 ### Declaring 
 Example:
 ```java
