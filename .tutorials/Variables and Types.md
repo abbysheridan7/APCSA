@@ -32,7 +32,9 @@ x = 7
 x is assigned the value 7
 7 = x 
 ```
-<sb style="color: red;">NO</b>. You can't assign a value this way.  7 cannot be assigned x
+<sb style="color: red;">NO</b>. 
+$${\color{red}NO}$$ 
+You can't assign a value this way.  7 cannot be assigned x
 
 Examples:
 ```java
