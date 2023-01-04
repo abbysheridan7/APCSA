@@ -16,7 +16,9 @@
 
 ## Variables
 A name give to a piece of information.  It is like a bucket that can hold only 1 piece of information at a time.
+
 <img src="bucket1.png" width=20% height=20%>
+
 ### Declaring 
 Example:
 ```java
@@ -26,14 +28,10 @@ double y;
 ```
 
 ### Declare and Initialize
-```
 = is used to assign a variable its value
-x = 7
-x is assigned the value 7
-7 = x 
-```
-<sb style="color: red;">NO</b>. 
-$${\color{red}NO}$$ 
+<img src="assign.png" width=20% height=20%>
+<sb style="color: red;">NO</b>
+$${\color{red}NO}$$
 You can't assign a value this way.  7 cannot be assigned x
 
 Examples:
