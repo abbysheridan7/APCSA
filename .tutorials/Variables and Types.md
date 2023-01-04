@@ -29,9 +29,9 @@ double y;
 
 ### Declare and Initialize
 = is used to assign a variable its value
+
 <img src="assign.png" width=20% height=20%>
-<sb style="color: red;">NO</b>
-$${\color{red}NO}$$
+
 You can't assign a value this way.  7 cannot be assigned x
 
 Examples:
